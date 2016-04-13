@@ -1,0 +1,13 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Music.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Music.cs" Line="9" Column="1" />
+      <File FileName="c:\Users\Jack\Documents\spacefaron\Assets\AstarPathfindingProject\Core\AI\Seeker.cs" Line="333" Column="57" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
